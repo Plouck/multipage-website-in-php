@@ -21,7 +21,7 @@ OUI !
 
 ### LightHouse .
 
-[logo]: https://image.noelshack.com/fichiers/2018/32/5/1533911672-lighthouse.png "LightHouse"
+![LightHouse](https://image.noelshack.com/fichiers/2018/32/5/1533911672-lighthouse.png)
 
 ## Auteur(s)
 
